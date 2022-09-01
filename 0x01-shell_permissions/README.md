@@ -1,1 +1,1 @@
-script that prints effective username of the current user
+Task.1 Who am I

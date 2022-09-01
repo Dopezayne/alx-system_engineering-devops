@@ -1,1 +1,1 @@
-Task.0 My name is Betty
+script that prints effective username of the current user
